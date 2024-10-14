@@ -1,0 +1,15 @@
+{
+  "name": "compare-opus-decoder-and-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tom.skjei@gmail.com",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "codec-parser": "^2.4.3",
+    "ogg-opus-decoder": "^1.6.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
